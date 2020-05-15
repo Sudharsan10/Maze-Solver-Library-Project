@@ -1,0 +1,3 @@
+[submodule "Library/Algorithms"]
+	path = Library/Algorithms
+	url = https://github.com/Sudharsan10/Algorithms.git
